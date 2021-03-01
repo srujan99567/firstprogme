@@ -27,3 +27,4 @@ System.out.println("n is not amstrong");
 }
 
 }
+code updated
